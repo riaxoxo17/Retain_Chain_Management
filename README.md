@@ -33,18 +33,18 @@ pgAdmin4
 
 VS Code / Terminal
 
-Project Structure
-├── database/
-│   ├── schema.sql
-│   ├── insert_data.sql
-│   └── db_connection.py
-├── embeddings/
-│   └── embedder.py
-├── recommendation/
-│   └── recommend.py
-├── screenshots/
-│   └── (all screenshots used in README)
-└── README.md
+#Project Structure
+#├── database/
+#│   ├── schema.sql
+#│   ├── insert_data.sql
+#│   └── db_connection.py
+#├── embeddings/
+#│   └── embedder.py
+#├── recommendation/
+#│   └── recommend.py
+#├── screenshots/
+#│   └── (all screenshots used in README)
+#└── README.md
 
 Database Setup
 Step 1: Create the database and enable pgvector
